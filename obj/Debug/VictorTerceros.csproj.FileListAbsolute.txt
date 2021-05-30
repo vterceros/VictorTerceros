@@ -11,3 +11,4 @@ C:\Users\VICTOR\source\repos\VictorTerceros\obj\Debug\VictorTerceros.pdb
 C:\Users\VICTOR\source\repos\VictorTerceros\bin\Debug\VictorTerceros.exe.config
 C:\Users\VICTOR\source\repos\VictorTerceros\bin\Debug\VictorTerceros.exe
 C:\Users\VICTOR\source\repos\VictorTerceros\bin\Debug\VictorTerceros.pdb
+C:\Users\VICTOR\source\repos\VictorTerceros\obj\Debug\VictorTerceros.csprojAssemblyReference.cache
