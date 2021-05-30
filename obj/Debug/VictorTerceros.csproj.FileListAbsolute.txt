@@ -1,0 +1,13 @@
+C:\Users\VICTOR\source\repos\VictorTerceros\bin\Debug\DB\LinkedIn.mdf
+C:\Users\VICTOR\source\repos\VictorTerceros\bin\Debug\DB\LinkedIn_log.ldf
+C:\Users\VICTOR\source\repos\VictorTerceros\bin\Debug\EntityFramework.dll
+C:\Users\VICTOR\source\repos\VictorTerceros\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\VICTOR\source\repos\VictorTerceros\bin\Debug\EntityFramework.xml
+C:\Users\VICTOR\source\repos\VictorTerceros\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\VICTOR\source\repos\VictorTerceros\obj\Debug\VictorTerceros.csproj.CoreCompileInputs.cache
+C:\Users\VICTOR\source\repos\VictorTerceros\obj\Debug\VictorTerceros.csproj.CopyComplete
+C:\Users\VICTOR\source\repos\VictorTerceros\obj\Debug\VictorTerceros.exe
+C:\Users\VICTOR\source\repos\VictorTerceros\obj\Debug\VictorTerceros.pdb
+C:\Users\VICTOR\source\repos\VictorTerceros\bin\Debug\VictorTerceros.exe.config
+C:\Users\VICTOR\source\repos\VictorTerceros\bin\Debug\VictorTerceros.exe
+C:\Users\VICTOR\source\repos\VictorTerceros\bin\Debug\VictorTerceros.pdb
